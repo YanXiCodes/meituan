@@ -12,6 +12,3 @@ adapters = [
 plugins = []
 plugin_dirs = ["src"]
 builtin_plugins = ["echo"]
-
-[tool.poetry.dependencies]
-openai = "^1.98.0"
